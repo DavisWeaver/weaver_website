@@ -14,7 +14,7 @@ organizations:
   url: https://case.edu/medicine/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an MD-PhD candidate in computational biology at Case Western Reserve University School of Medicine. Much of my current work is focused on developing bioinformatic pipelines to expand and guide personalized therapies in oncology. I really love developing software - and have begun re-structuring much of my PhD work as formal software packages so that it can be more easily re-produced, extended, and understood. My current clinical interest is in Oncology. Long-term, I hope to combine my interest in caring for patients suffering from cancer with my passion for discovery as a physician-scientist.
+bio: I am an MD-PhD candidate in computational biology at Case Western Reserve University School of Medicine. All positions featured on this website represent the official stance of all affiliate institutions (jk they are my own).
 
 # Interests to show in About widget
 interests:
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +76,4 @@ I am an MD-PhD candidate in computational biology at Case Western Reserve Univer
 I really love developing software - and have begun re-structuring much of my PhD work as formal software packages so that it can be more easily re-produced, extended, and understood. My current clinical interest is in Oncology. Long-term, I hope to combine my interest in caring for patients suffering from cancer with my passion for discovery as a physician-scientist.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
